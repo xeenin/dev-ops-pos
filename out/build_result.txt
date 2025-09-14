@@ -1,0 +1,6 @@
+total 1.1G
+drwxr-xr-x 2 jenkins jenkins 4.0K Sep 14 22:41 .
+drwxr-xr-x 6 jenkins jenkins 4.0K Sep 14 22:41 ..
+-rw-r--r-- 1 jenkins jenkins    0 Sep 14 22:41 build_result.txt
+-rw------- 1 jenkins jenkins 898M Sep 14 22:41 mymysql.tar
+-rw------- 1 jenkins jenkins 182M Sep 14 22:41 mywebapp.tar
